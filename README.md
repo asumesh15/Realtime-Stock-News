@@ -1,2 +1,2 @@
 # Realtime-Stock-News
-This project finds breaking stock news (partnerships, acquisitions, FDA approvals, offerings, etc.) before it is published in news articles!
+This project finds breaking stock news (partnerships, acquisitions, FDA approvals, offerings, etc.) before they are published in news articles!
