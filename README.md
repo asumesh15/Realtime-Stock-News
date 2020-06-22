@@ -6,8 +6,6 @@ Screenshots!
 
 ![alt text](https://github.com/asumesh15/Realtime-Stock-News/blob/master/logs.PNG)
 
-![alt text](https://github.com/asumesh15/Realtime-Stock-News/blob/master/tagCloud.PNG)
-
 ![alt text](https://github.com/asumesh15/Realtime-Stock-News/blob/master/usersPie.PNG)
 
 
