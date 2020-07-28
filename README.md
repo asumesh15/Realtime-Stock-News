@@ -2,6 +2,7 @@
 This project finds breaking stock news (partnerships, acquisitions, FDA approvals, offerings, etc.) before they are published in news articles!
 
 Screenshots!
+
 ![alt text](https://github.com/asumesh15/Realtime-Stock-News/blob/master/gene.PNG)
 In this screenshot we see the Discord integration in place. The Twitter API sends the news to the Discord channel and we can see here the timestamp is at 8:04 AM (7/15/2020).
 
