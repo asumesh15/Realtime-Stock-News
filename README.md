@@ -6,7 +6,7 @@ Screenshots!
 In this screenshot we see the Discord integration in place. The Twitter API sends the news to the Discord channel and we can see here the timestamp is at 8:04 AM (7/15/2020).
 
 ![alt text](https://github.com/asumesh15/Realtime-Stock-News/blob/master/geneChart.PNG)
-The stock Genetic Technologies Limited ($GENE) started the day off (9:30 AM) at $2.77 and peaked peaked at $9.87 for a 256% increase in value. The program found the stock news at 8:04 AM (7/15/2020) giving any investor ample opportunity to buy shares of the stock once the market opened. 
+The stock Genetic Technologies Limited ($GENE) started the day off (9:30 AM) at $2.77 and peaked peaked at $9.87 (2:30 PM) for a 256% increase in value. The program found the stock news at 8:04 AM (7/15/2020) giving any investor ample opportunity to buy shares of the stock once the market opened. 
 
 ![alt text](https://github.com/asumesh15/Realtime-Stock-News/blob/master/activity.PNG)
 We can see on the dashboard that most of the activity tends to happen during the earlier hours of the market (9:00-10:00 AM)
